@@ -30,3 +30,9 @@
   to = "https://afflat3d2.com/lnk.asp?o=11301&c=918271&a=403969&k=70AF228DDDD934AFE2485AAA4D8BB81A&l=11380"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/2/"
+  to = "https://afflat3d2.com/lnk.asp?o=16650&c=918271&a=403969&k=28C94FD96C04C7295F03CA7C80DECAB9&l=17814"
+  status = 301
+  force = true
