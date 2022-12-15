@@ -24,3 +24,9 @@
   to = "https://d96ednk4non83tzu2871qosp0z.hop.clickbank.net"
   status = 301
   force = true
+  
+  [[redirects]]
+  from = "/1/"
+  to = "https://afflat3d2.com/lnk.asp?o=11301&c=918271&a=403969&k=70AF228DDDD934AFE2485AAA4D8BB81A&l=11380"
+  status = 301
+  force = true
