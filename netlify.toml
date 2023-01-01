@@ -42,3 +42,9 @@
   to = "https://warriorplus.com/o2/a/gb7g94/0"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/4/"
+  to = "https://brixxs.com/"
+  status = 301
+  force = true
