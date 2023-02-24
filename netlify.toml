@@ -48,3 +48,9 @@
   to = "https://brixxs.com/"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/remote-work/"
+  to = "https://afflat3d2.com/lnk.asp?o=15647&c=918277&a=403969&k=B2DCB7B5F106CF050CCEEA4FEFF916A5&l=16862"
+  status = 301
+  force = true
