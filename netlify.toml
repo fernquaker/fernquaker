@@ -62,7 +62,7 @@
   force = true
 
   [[redirects]]
-  from = "/exipure/"
-  to = "https://518c9pgyuiu824x713-hz9es9a.hop.clickbank.net/?tid=1"
+  from = "/alpilean/"
+  to = "https://hop.clickbank.net/?affiliate=redirect7r&vendor=alpilean&pg=vid"
   status = 301
   force = true
