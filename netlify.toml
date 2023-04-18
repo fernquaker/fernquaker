@@ -60,3 +60,9 @@
   to = "https://afflat3d2.com/lnk.asp?o=15647&c=918277&a=403969&k=67BDDB9ECBEF7E746D5B0905605818CD&l=16862"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/exipure/"
+  to = "https://518c9pgyuiu824x713-hz9es9a.hop.clickbank.net/?tid=1"
+  status = 301
+  force = true
