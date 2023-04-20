@@ -66,3 +66,9 @@
   to = "https://hop.clickbank.net/?affiliate=redirect7r&vendor=alpilean&pg=vid"
   status = 301
   force = true
+  
+ [[redirects]]
+  from = "/win-iphone-13/"
+  to = "https://afflat3d2.com/lnk.asp?o=22787&c=918277&a=403969&k=B473416DE98B37950627E0789BD0C823&l=23698"
+  status = 301
+  force = true
